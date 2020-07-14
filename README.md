@@ -1,2 +1,2 @@
-# ai-research
+# AI-Research
 ## HMQ
