@@ -37,6 +37,5 @@ python -m torch.distributed.launch --nproc_per_node=$NUM_GPU main.py --network_n
 ![VideoBlocks](images/parto_final.png) 
 
 ## Contributing
-If you find a bug, create a GitHub issue. Similarly, if you have questions, simply post them as GitHub issues.
+If you find a bug or have a question, please create a GitHub issue.
 
-I look forward to seeing what the community does with these models!
