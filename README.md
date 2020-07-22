@@ -1,6 +1,8 @@
 # AI-Research
 ## [HMQ: Hardware Friendly Mixed Precision Quantization Block for CNNs](./HMQ/readme.md)
 Authors: Hai Victor Habi, Roy. H Jennings and Arnon Netzer.
+
+Arxiv: https://arxiv.org/abs/2007.09952
  
 Abstract: Recent work in network quantization produced state-of-the-art results using mixed precision quantization.
 An imperative requirement for many efficient edge device hardware implementations is that their quantizers are uniform and with power-of-two thresholds.
