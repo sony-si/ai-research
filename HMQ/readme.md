@@ -1,5 +1,6 @@
 # HMQ: Hardware Friendly Mixed Precision Quantization Block for CNNs
 This repository contains the auther's implementation of HMQ in PyTorch. 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/hmq-hardware-friendly-mixed-precision/quantization-on-imagenet)](https://paperswithcode.com/sota/quantization-on-imagenet?p=hmq-hardware-friendly-mixed-precision)
 ## Abstrct
 Recent work in network quantization produced state-of-the-art results using mixed precision quantization.
 An imperative requirement for many efficient edge device hardware implementations is that their quantizers are uniform and with power-of-two thresholds.
